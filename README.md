@@ -1,7 +1,7 @@
 # Hi, I'm Indupriya Chidambararaj 👋
 
 Data Scientist building end-to-end ML systems that turn messy, real-world data into actionable decisions.  
-I specialize in **machine learning pipelines**, **exploratory data analysis**, and **interactive analytics dashboards** — from raw data to deployed product.
+I specialize in **machine learning pipelines**,**SQL & data engineering**, **exploratory data analysis**, and **interactive analytics dashboards** — from raw data to deployed product.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-End--to--End-orange)
