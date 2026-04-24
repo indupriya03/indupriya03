@@ -88,7 +88,7 @@ Clean, well-commented solutions focused on readable, idiomatic Pandas code. Grea
 - 🔭 Currently working on: expanding my ML portfolio with NLP and time-series projects
 - 🌱 Currently learning: MLflow for experiment tracking, deployment with FastAPI
 - 💼 Open to: Data Scientist, ML Analyst, and Data Analyst roles
-- 📍 Based in: India
+- 📍 Based in: Germany
 
 ---
 
